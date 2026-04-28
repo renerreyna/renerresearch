@@ -1,0 +1,3 @@
+# Collective Attention Dynamics
+
+sample
