@@ -1,0 +1,50 @@
+# Environment and secrets
+.env
+.env.local
+.env.*
+*.env
+secrets.py
+secrets.json
+config.yml
+credentials.json
+token.txt
+api_keys.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Mac OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V2
+.Trashes
+Icon?
+Thumbs.db
+
+# Large data files
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/

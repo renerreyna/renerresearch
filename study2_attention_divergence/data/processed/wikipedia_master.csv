@@ -1,0 +1,1413 @@
+date,views,title,lang,case_id,sector
+2021-01-01,14847,Tesla,de,F1,Finance
+2021-02-01,12989,Tesla,de,F1,Finance
+2021-03-01,14532,Tesla,de,F1,Finance
+2021-04-01,19469,Tesla,de,F1,Finance
+2021-05-01,11969,Tesla,de,F1,Finance
+2021-06-01,8127,Tesla,de,F1,Finance
+2021-07-01,5858,Tesla,de,F1,Finance
+2021-08-01,5675,Tesla,de,F1,Finance
+2021-09-01,5431,Tesla,de,F1,Finance
+2021-10-01,6602,Tesla,de,F1,Finance
+2021-11-01,6030,Tesla,de,F1,Finance
+2021-12-01,4875,Tesla,de,F1,Finance
+2022-01-01,5277,Tesla,de,F1,Finance
+2022-02-01,4129,Tesla,de,F1,Finance
+2022-03-01,4974,Tesla,de,F1,Finance
+2022-04-01,5679,Tesla,de,F1,Finance
+2022-05-01,4206,Tesla,de,F1,Finance
+2022-06-01,4571,Tesla,de,F1,Finance
+2022-07-01,4352,Tesla,de,F1,Finance
+2022-08-01,10989,Tesla,de,F1,Finance
+2022-09-01,6083,Tesla,de,F1,Finance
+2022-10-01,5589,Tesla,de,F1,Finance
+2022-11-01,6184,Tesla,de,F1,Finance
+2022-12-01,4873,Tesla,de,F1,Finance
+2023-01-01,5508,Tesla,de,F1,Finance
+2023-02-01,4126,Tesla,de,F1,Finance
+2023-03-01,4092,Tesla,de,F1,Finance
+2023-04-01,3701,Tesla,de,F1,Finance
+2023-05-01,3809,Tesla,de,F1,Finance
+2023-06-01,3656,Tesla,de,F1,Finance
+2023-07-01,3733,Tesla,de,F1,Finance
+2023-08-01,3407,Tesla,de,F1,Finance
+2023-09-01,3538,Tesla,de,F1,Finance
+2023-10-01,3169,Tesla,de,F1,Finance
+2023-11-01,3247,Tesla,de,F1,Finance
+2023-12-01,150,Tesla,de,F1,Finance
+2021-01-01,241,Tesla Inc,en,F1,Finance
+2021-02-01,354,Tesla Inc,en,F1,Finance
+2021-03-01,388,Tesla Inc,en,F1,Finance
+2021-04-01,506,Tesla Inc,en,F1,Finance
+2021-05-01,1505,Tesla Inc,en,F1,Finance
+2021-06-01,596,Tesla Inc,en,F1,Finance
+2021-07-01,684,Tesla Inc,en,F1,Finance
+2021-08-01,1182,Tesla Inc,en,F1,Finance
+2021-09-01,1033,Tesla Inc,en,F1,Finance
+2021-10-01,1282,Tesla Inc,en,F1,Finance
+2021-11-01,918,Tesla Inc,en,F1,Finance
+2021-12-01,815,Tesla Inc,en,F1,Finance
+2022-01-01,1053,Tesla Inc,en,F1,Finance
+2022-02-01,949,Tesla Inc,en,F1,Finance
+2022-03-01,958,Tesla Inc,en,F1,Finance
+2022-04-01,1169,Tesla Inc,en,F1,Finance
+2022-05-01,1682,Tesla Inc,en,F1,Finance
+2022-06-01,1555,Tesla Inc,en,F1,Finance
+2022-07-01,1422,Tesla Inc,en,F1,Finance
+2022-08-01,2345,Tesla Inc,en,F1,Finance
+2022-09-01,1015,Tesla Inc,en,F1,Finance
+2022-10-01,940,Tesla Inc,en,F1,Finance
+2022-11-01,968,Tesla Inc,en,F1,Finance
+2022-12-01,923,Tesla Inc,en,F1,Finance
+2023-01-01,871,Tesla Inc,en,F1,Finance
+2023-02-01,898,Tesla Inc,en,F1,Finance
+2023-03-01,1427,Tesla Inc,en,F1,Finance
+2023-04-01,886,Tesla Inc,en,F1,Finance
+2023-05-01,619,Tesla Inc,en,F1,Finance
+2023-06-01,630,Tesla Inc,en,F1,Finance
+2023-07-01,563,Tesla Inc,en,F1,Finance
+2023-08-01,607,Tesla Inc,en,F1,Finance
+2023-09-01,586,Tesla Inc,en,F1,Finance
+2023-10-01,620,Tesla Inc,en,F1,Finance
+2023-11-01,700,Tesla Inc,en,F1,Finance
+2023-12-01,26,Tesla Inc,en,F1,Finance
+2021-01-01,881973,Bitcoin,en,F2,Finance
+2021-02-01,933565,Bitcoin,en,F2,Finance
+2021-03-01,649134,Bitcoin,en,F2,Finance
+2021-04-01,652458,Bitcoin,en,F2,Finance
+2021-05-01,990438,Bitcoin,en,F2,Finance
+2021-06-01,604425,Bitcoin,en,F2,Finance
+2021-07-01,417208,Bitcoin,en,F2,Finance
+2021-08-01,425156,Bitcoin,en,F2,Finance
+2021-09-01,668505,Bitcoin,en,F2,Finance
+2021-10-01,845726,Bitcoin,en,F2,Finance
+2021-11-01,833006,Bitcoin,en,F2,Finance
+2021-12-01,718252,Bitcoin,en,F2,Finance
+2022-01-01,891375,Bitcoin,en,F2,Finance
+2022-02-01,612528,Bitcoin,en,F2,Finance
+2022-03-01,629028,Bitcoin,en,F2,Finance
+2022-04-01,536500,Bitcoin,en,F2,Finance
+2022-05-01,520987,Bitcoin,en,F2,Finance
+2022-06-01,436606,Bitcoin,en,F2,Finance
+2022-07-01,311979,Bitcoin,en,F2,Finance
+2022-08-01,301276,Bitcoin,en,F2,Finance
+2022-09-01,307515,Bitcoin,en,F2,Finance
+2022-10-01,592145,Bitcoin,en,F2,Finance
+2022-11-01,631754,Bitcoin,en,F2,Finance
+2022-12-01,348527,Bitcoin,en,F2,Finance
+2023-01-01,323616,Bitcoin,en,F2,Finance
+2023-02-01,238114,Bitcoin,en,F2,Finance
+2023-03-01,277512,Bitcoin,en,F2,Finance
+2023-04-01,237095,Bitcoin,en,F2,Finance
+2023-05-01,248231,Bitcoin,en,F2,Finance
+2023-06-01,270602,Bitcoin,en,F2,Finance
+2023-07-01,253734,Bitcoin,en,F2,Finance
+2023-08-01,270272,Bitcoin,en,F2,Finance
+2023-09-01,292356,Bitcoin,en,F2,Finance
+2023-10-01,317506,Bitcoin,en,F2,Finance
+2023-11-01,304526,Bitcoin,en,F2,Finance
+2023-12-01,8970,Bitcoin,en,F2,Finance
+2021-01-01,1017,Bitcoin,ja,F2,Finance
+2021-02-01,1091,Bitcoin,ja,F2,Finance
+2021-03-01,1143,Bitcoin,ja,F2,Finance
+2021-04-01,1076,Bitcoin,ja,F2,Finance
+2021-05-01,1307,Bitcoin,ja,F2,Finance
+2021-06-01,1385,Bitcoin,ja,F2,Finance
+2021-07-01,1053,Bitcoin,ja,F2,Finance
+2021-08-01,1067,Bitcoin,ja,F2,Finance
+2021-09-01,918,Bitcoin,ja,F2,Finance
+2021-10-01,1937,Bitcoin,ja,F2,Finance
+2021-11-01,770,Bitcoin,ja,F2,Finance
+2021-12-01,722,Bitcoin,ja,F2,Finance
+2022-01-01,602,Bitcoin,ja,F2,Finance
+2022-02-01,509,Bitcoin,ja,F2,Finance
+2022-03-01,1206,Bitcoin,ja,F2,Finance
+2022-04-01,427,Bitcoin,ja,F2,Finance
+2022-05-01,404,Bitcoin,ja,F2,Finance
+2022-06-01,313,Bitcoin,ja,F2,Finance
+2022-07-01,324,Bitcoin,ja,F2,Finance
+2022-08-01,413,Bitcoin,ja,F2,Finance
+2022-09-01,213,Bitcoin,ja,F2,Finance
+2022-10-01,228,Bitcoin,ja,F2,Finance
+2022-11-01,191,Bitcoin,ja,F2,Finance
+2022-12-01,677,Bitcoin,ja,F2,Finance
+2023-01-01,192,Bitcoin,ja,F2,Finance
+2023-02-01,118,Bitcoin,ja,F2,Finance
+2023-03-01,150,Bitcoin,ja,F2,Finance
+2023-04-01,155,Bitcoin,ja,F2,Finance
+2023-05-01,162,Bitcoin,ja,F2,Finance
+2023-06-01,93,Bitcoin,ja,F2,Finance
+2023-07-01,100,Bitcoin,ja,F2,Finance
+2023-08-01,91,Bitcoin,ja,F2,Finance
+2023-09-01,99,Bitcoin,ja,F2,Finance
+2023-10-01,103,Bitcoin,ja,F2,Finance
+2023-11-01,100,Bitcoin,ja,F2,Finance
+2023-12-01,1,Bitcoin,ja,F2,Finance
+2021-01-01,76959,GameStop,de,F3,Finance
+2021-02-01,34670,GameStop,de,F3,Finance
+2021-03-01,9671,GameStop,de,F3,Finance
+2021-04-01,5528,GameStop,de,F3,Finance
+2021-05-01,4648,GameStop,de,F3,Finance
+2021-06-01,4093,GameStop,de,F3,Finance
+2021-07-01,3397,GameStop,de,F3,Finance
+2021-08-01,2893,GameStop,de,F3,Finance
+2021-09-01,3124,GameStop,de,F3,Finance
+2021-10-01,3034,GameStop,de,F3,Finance
+2021-11-01,3154,GameStop,de,F3,Finance
+2021-12-01,3922,GameStop,de,F3,Finance
+2022-01-01,3723,GameStop,de,F3,Finance
+2022-02-01,2324,GameStop,de,F3,Finance
+2022-03-01,2699,GameStop,de,F3,Finance
+2022-04-01,2276,GameStop,de,F3,Finance
+2022-05-01,2266,GameStop,de,F3,Finance
+2022-06-01,1818,GameStop,de,F3,Finance
+2022-07-01,3769,GameStop,de,F3,Finance
+2022-08-01,3551,GameStop,de,F3,Finance
+2022-09-01,7391,GameStop,de,F3,Finance
+2022-10-01,13207,GameStop,de,F3,Finance
+2022-11-01,15679,GameStop,de,F3,Finance
+2022-12-01,3573,GameStop,de,F3,Finance
+2023-01-01,5283,GameStop,de,F3,Finance
+2023-02-01,5879,GameStop,de,F3,Finance
+2023-03-01,10833,GameStop,de,F3,Finance
+2023-04-01,6881,GameStop,de,F3,Finance
+2023-05-01,10089,GameStop,de,F3,Finance
+2023-06-01,8661,GameStop,de,F3,Finance
+2023-07-01,10784,GameStop,de,F3,Finance
+2023-08-01,11007,GameStop,de,F3,Finance
+2023-09-01,10831,GameStop,de,F3,Finance
+2023-10-01,12106,GameStop,de,F3,Finance
+2023-11-01,12595,GameStop,de,F3,Finance
+2023-12-01,206,GameStop,de,F3,Finance
+2021-01-01,684651,GameStop,en,F3,Finance
+2021-02-01,314935,GameStop,en,F3,Finance
+2021-03-01,151930,GameStop,en,F3,Finance
+2021-04-01,69763,GameStop,en,F3,Finance
+2021-05-01,52976,GameStop,en,F3,Finance
+2021-06-01,49734,GameStop,en,F3,Finance
+2021-07-01,71734,GameStop,en,F3,Finance
+2021-08-01,61424,GameStop,en,F3,Finance
+2021-09-01,53991,GameStop,en,F3,Finance
+2021-10-01,53765,GameStop,en,F3,Finance
+2021-11-01,59780,GameStop,en,F3,Finance
+2021-12-01,67052,GameStop,en,F3,Finance
+2022-01-01,60209,GameStop,en,F3,Finance
+2022-02-01,51028,GameStop,en,F3,Finance
+2022-03-01,57706,GameStop,en,F3,Finance
+2022-04-01,48264,GameStop,en,F3,Finance
+2022-05-01,45759,GameStop,en,F3,Finance
+2022-06-01,37674,GameStop,en,F3,Finance
+2022-07-01,62806,GameStop,en,F3,Finance
+2022-08-01,89348,GameStop,en,F3,Finance
+2022-09-01,90099,GameStop,en,F3,Finance
+2022-10-01,136432,GameStop,en,F3,Finance
+2022-11-01,67571,GameStop,en,F3,Finance
+2022-12-01,42307,GameStop,en,F3,Finance
+2023-01-01,41906,GameStop,en,F3,Finance
+2023-02-01,46373,GameStop,en,F3,Finance
+2023-03-01,46588,GameStop,en,F3,Finance
+2023-04-01,39303,GameStop,en,F3,Finance
+2023-05-01,45472,GameStop,en,F3,Finance
+2023-06-01,83348,GameStop,en,F3,Finance
+2023-07-01,104791,GameStop,en,F3,Finance
+2023-08-01,66712,GameStop,en,F3,Finance
+2023-09-01,79182,GameStop,en,F3,Finance
+2023-10-01,74132,GameStop,en,F3,Finance
+2023-11-01,171510,GameStop,en,F3,Finance
+2023-12-01,1592,GameStop,en,F3,Finance
+2021-09-01,815,FTX (company),en,F4,Finance
+2021-10-01,27480,FTX (company),en,F4,Finance
+2021-11-01,34680,FTX (company),en,F4,Finance
+2021-12-01,31609,FTX (company),en,F4,Finance
+2022-01-01,50979,FTX (company),en,F4,Finance
+2022-02-01,49287,FTX (company),en,F4,Finance
+2022-03-01,38619,FTX (company),en,F4,Finance
+2022-04-01,44973,FTX (company),en,F4,Finance
+2022-05-01,47723,FTX (company),en,F4,Finance
+2022-06-01,36933,FTX (company),en,F4,Finance
+2022-07-01,35392,FTX (company),en,F4,Finance
+2022-08-01,26685,FTX (company),en,F4,Finance
+2022-09-01,26579,FTX (company),en,F4,Finance
+2022-10-01,23321,FTX (company),en,F4,Finance
+2022-11-01,1175193,FTX (company),en,F4,Finance
+2022-12-01,477021,FTX (company),en,F4,Finance
+2023-01-01,24867,FTX (company),en,F4,Finance
+2023-02-01,9086,FTX (company),en,F4,Finance
+2023-03-01,10776,FTX (company),en,F4,Finance
+2023-04-01,6640,FTX (company),en,F4,Finance
+2023-05-01,4955,FTX (company),en,F4,Finance
+2023-06-01,4456,FTX (company),en,F4,Finance
+2023-07-01,4062,FTX (company),en,F4,Finance
+2023-08-01,4521,FTX (company),en,F4,Finance
+2023-09-01,5077,FTX (company),en,F4,Finance
+2023-10-01,8351,FTX (company),en,F4,Finance
+2023-11-01,7102,FTX (company),en,F4,Finance
+2023-12-01,169,FTX (company),en,F4,Finance
+2021-01-01,188,FTX,ja,F4,Finance
+2021-02-01,111,FTX,ja,F4,Finance
+2021-03-01,95,FTX,ja,F4,Finance
+2021-04-01,140,FTX,ja,F4,Finance
+2021-05-01,131,FTX,ja,F4,Finance
+2021-06-01,118,FTX,ja,F4,Finance
+2021-07-01,142,FTX,ja,F4,Finance
+2021-08-01,113,FTX,ja,F4,Finance
+2021-09-01,104,FTX,ja,F4,Finance
+2021-10-01,117,FTX,ja,F4,Finance
+2021-11-01,120,FTX,ja,F4,Finance
+2021-12-01,94,FTX,ja,F4,Finance
+2022-01-01,100,FTX,ja,F4,Finance
+2022-02-01,128,FTX,ja,F4,Finance
+2022-03-01,150,FTX,ja,F4,Finance
+2022-04-01,119,FTX,ja,F4,Finance
+2022-05-01,135,FTX,ja,F4,Finance
+2022-06-01,112,FTX,ja,F4,Finance
+2022-07-01,142,FTX,ja,F4,Finance
+2022-08-01,116,FTX,ja,F4,Finance
+2022-09-01,126,FTX,ja,F4,Finance
+2022-10-01,96,FTX,ja,F4,Finance
+2022-11-01,5589,FTX,ja,F4,Finance
+2022-12-01,632,FTX,ja,F4,Finance
+2023-01-01,289,FTX,ja,F4,Finance
+2023-02-01,193,FTX,ja,F4,Finance
+2023-03-01,146,FTX,ja,F4,Finance
+2023-04-01,88,FTX,ja,F4,Finance
+2023-05-01,129,FTX,ja,F4,Finance
+2023-06-01,107,FTX,ja,F4,Finance
+2023-07-01,78,FTX,ja,F4,Finance
+2023-08-01,56,FTX,ja,F4,Finance
+2023-09-01,61,FTX,ja,F4,Finance
+2023-10-01,66,FTX,ja,F4,Finance
+2023-11-01,128,FTX,ja,F4,Finance
+2023-12-01,4,FTX,ja,F4,Finance
+2021-01-01,8324,Apple Inc,en,F5,Finance
+2021-02-01,9680,Apple Inc,en,F5,Finance
+2021-03-01,9594,Apple Inc,en,F5,Finance
+2021-04-01,8868,Apple Inc,en,F5,Finance
+2021-05-01,8433,Apple Inc,en,F5,Finance
+2021-06-01,8374,Apple Inc,en,F5,Finance
+2021-07-01,6693,Apple Inc,en,F5,Finance
+2021-08-01,7855,Apple Inc,en,F5,Finance
+2021-09-01,8549,Apple Inc,en,F5,Finance
+2021-10-01,9234,Apple Inc,en,F5,Finance
+2021-11-01,7303,Apple Inc,en,F5,Finance
+2021-12-01,5765,Apple Inc,en,F5,Finance
+2022-01-01,6704,Apple Inc,en,F5,Finance
+2022-02-01,6603,Apple Inc,en,F5,Finance
+2022-03-01,7923,Apple Inc,en,F5,Finance
+2022-04-01,7185,Apple Inc,en,F5,Finance
+2022-05-01,9667,Apple Inc,en,F5,Finance
+2022-06-01,7928,Apple Inc,en,F5,Finance
+2022-07-01,68019,Apple Inc,en,F5,Finance
+2022-08-01,9413,Apple Inc,en,F5,Finance
+2022-09-01,8355,Apple Inc,en,F5,Finance
+2022-10-01,7018,Apple Inc,en,F5,Finance
+2022-11-01,7469,Apple Inc,en,F5,Finance
+2022-12-01,7434,Apple Inc,en,F5,Finance
+2023-01-01,7646,Apple Inc,en,F5,Finance
+2023-02-01,6671,Apple Inc,en,F5,Finance
+2023-03-01,10012,Apple Inc,en,F5,Finance
+2023-04-01,6628,Apple Inc,en,F5,Finance
+2023-05-01,5407,Apple Inc,en,F5,Finance
+2023-06-01,6156,Apple Inc,en,F5,Finance
+2023-07-01,5554,Apple Inc,en,F5,Finance
+2023-08-01,5636,Apple Inc,en,F5,Finance
+2023-09-01,6551,Apple Inc,en,F5,Finance
+2023-10-01,7607,Apple Inc,en,F5,Finance
+2023-11-01,6977,Apple Inc,en,F5,Finance
+2023-12-01,212,Apple Inc,en,F5,Finance
+2021-01-01,857,Apple,ja,F5,Finance
+2021-02-01,1107,Apple,ja,F5,Finance
+2021-03-01,963,Apple,ja,F5,Finance
+2021-04-01,1007,Apple,ja,F5,Finance
+2021-05-01,13814,Apple,ja,F5,Finance
+2021-06-01,35858,Apple,ja,F5,Finance
+2021-07-01,28995,Apple,ja,F5,Finance
+2021-08-01,28631,Apple,ja,F5,Finance
+2021-09-01,42046,Apple,ja,F5,Finance
+2021-10-01,37808,Apple,ja,F5,Finance
+2021-11-01,30720,Apple,ja,F5,Finance
+2021-12-01,29768,Apple,ja,F5,Finance
+2022-01-01,35598,Apple,ja,F5,Finance
+2022-02-01,26562,Apple,ja,F5,Finance
+2022-03-01,28644,Apple,ja,F5,Finance
+2022-04-01,25329,Apple,ja,F5,Finance
+2022-05-01,29476,Apple,ja,F5,Finance
+2022-06-01,29951,Apple,ja,F5,Finance
+2022-07-01,27936,Apple,ja,F5,Finance
+2022-08-01,28024,Apple,ja,F5,Finance
+2022-09-01,37310,Apple,ja,F5,Finance
+2022-10-01,34335,Apple,ja,F5,Finance
+2022-11-01,38336,Apple,ja,F5,Finance
+2022-12-01,27826,Apple,ja,F5,Finance
+2023-01-01,31040,Apple,ja,F5,Finance
+2023-02-01,51085,Apple,ja,F5,Finance
+2023-03-01,25911,Apple,ja,F5,Finance
+2023-04-01,37606,Apple,ja,F5,Finance
+2023-05-01,27015,Apple,ja,F5,Finance
+2023-06-01,34319,Apple,ja,F5,Finance
+2023-07-01,28108,Apple,ja,F5,Finance
+2023-08-01,28187,Apple,ja,F5,Finance
+2023-09-01,38409,Apple,ja,F5,Finance
+2023-10-01,24339,Apple,ja,F5,Finance
+2023-11-01,22048,Apple,ja,F5,Finance
+2023-12-01,749,Apple,ja,F5,Finance
+2021-01-01,846,Rohöl,de,F6,Finance
+2021-02-01,740,Rohöl,de,F6,Finance
+2021-03-01,904,Rohöl,de,F6,Finance
+2021-04-01,763,Rohöl,de,F6,Finance
+2021-05-01,771,Rohöl,de,F6,Finance
+2021-06-01,625,Rohöl,de,F6,Finance
+2021-07-01,525,Rohöl,de,F6,Finance
+2021-08-01,486,Rohöl,de,F6,Finance
+2021-09-01,616,Rohöl,de,F6,Finance
+2021-10-01,785,Rohöl,de,F6,Finance
+2021-11-01,603,Rohöl,de,F6,Finance
+2021-12-01,484,Rohöl,de,F6,Finance
+2022-01-01,652,Rohöl,de,F6,Finance
+2022-02-01,671,Rohöl,de,F6,Finance
+2022-03-01,1405,Rohöl,de,F6,Finance
+2022-04-01,765,Rohöl,de,F6,Finance
+2022-05-01,796,Rohöl,de,F6,Finance
+2022-06-01,713,Rohöl,de,F6,Finance
+2022-07-01,572,Rohöl,de,F6,Finance
+2022-08-01,580,Rohöl,de,F6,Finance
+2022-09-01,698,Rohöl,de,F6,Finance
+2022-10-01,667,Rohöl,de,F6,Finance
+2022-11-01,811,Rohöl,de,F6,Finance
+2022-12-01,746,Rohöl,de,F6,Finance
+2023-01-01,694,Rohöl,de,F6,Finance
+2023-02-01,518,Rohöl,de,F6,Finance
+2023-03-01,736,Rohöl,de,F6,Finance
+2023-04-01,429,Rohöl,de,F6,Finance
+2023-05-01,450,Rohöl,de,F6,Finance
+2023-06-01,466,Rohöl,de,F6,Finance
+2023-07-01,421,Rohöl,de,F6,Finance
+2023-08-01,508,Rohöl,de,F6,Finance
+2023-09-01,472,Rohöl,de,F6,Finance
+2023-10-01,456,Rohöl,de,F6,Finance
+2023-11-01,530,Rohöl,de,F6,Finance
+2023-12-01,20,Rohöl,de,F6,Finance
+2021-01-01,6014,West Texas Intermediate,en,F6,Finance
+2021-02-01,6470,West Texas Intermediate,en,F6,Finance
+2021-03-01,7112,West Texas Intermediate,en,F6,Finance
+2021-04-01,5271,West Texas Intermediate,en,F6,Finance
+2021-05-01,4714,West Texas Intermediate,en,F6,Finance
+2021-06-01,4548,West Texas Intermediate,en,F6,Finance
+2021-07-01,4324,West Texas Intermediate,en,F6,Finance
+2021-08-01,3745,West Texas Intermediate,en,F6,Finance
+2021-09-01,4452,West Texas Intermediate,en,F6,Finance
+2021-10-01,6174,West Texas Intermediate,en,F6,Finance
+2021-11-01,5120,West Texas Intermediate,en,F6,Finance
+2021-12-01,3751,West Texas Intermediate,en,F6,Finance
+2022-01-01,4224,West Texas Intermediate,en,F6,Finance
+2022-02-01,7036,West Texas Intermediate,en,F6,Finance
+2022-03-01,19399,West Texas Intermediate,en,F6,Finance
+2022-04-01,6230,West Texas Intermediate,en,F6,Finance
+2022-05-01,5985,West Texas Intermediate,en,F6,Finance
+2022-06-01,6459,West Texas Intermediate,en,F6,Finance
+2022-07-01,6359,West Texas Intermediate,en,F6,Finance
+2022-08-01,5855,West Texas Intermediate,en,F6,Finance
+2022-09-01,5563,West Texas Intermediate,en,F6,Finance
+2022-10-01,5615,West Texas Intermediate,en,F6,Finance
+2022-11-01,4822,West Texas Intermediate,en,F6,Finance
+2022-12-01,4875,West Texas Intermediate,en,F6,Finance
+2023-01-01,4274,West Texas Intermediate,en,F6,Finance
+2023-02-01,3722,West Texas Intermediate,en,F6,Finance
+2023-03-01,4905,West Texas Intermediate,en,F6,Finance
+2023-04-01,4182,West Texas Intermediate,en,F6,Finance
+2023-05-01,4026,West Texas Intermediate,en,F6,Finance
+2023-06-01,4475,West Texas Intermediate,en,F6,Finance
+2023-07-01,3860,West Texas Intermediate,en,F6,Finance
+2023-08-01,4341,West Texas Intermediate,en,F6,Finance
+2023-09-01,4995,West Texas Intermediate,en,F6,Finance
+2023-10-01,5631,West Texas Intermediate,en,F6,Finance
+2023-11-01,5012,West Texas Intermediate,en,F6,Finance
+2023-12-01,165,West Texas Intermediate,en,F6,Finance
+2021-01-01,288,Silicon Valley Bank,de,F7,Finance
+2021-02-01,166,Silicon Valley Bank,de,F7,Finance
+2021-03-01,199,Silicon Valley Bank,de,F7,Finance
+2021-04-01,179,Silicon Valley Bank,de,F7,Finance
+2021-05-01,174,Silicon Valley Bank,de,F7,Finance
+2021-06-01,146,Silicon Valley Bank,de,F7,Finance
+2021-07-01,149,Silicon Valley Bank,de,F7,Finance
+2021-08-01,185,Silicon Valley Bank,de,F7,Finance
+2021-09-01,180,Silicon Valley Bank,de,F7,Finance
+2021-10-01,220,Silicon Valley Bank,de,F7,Finance
+2021-11-01,199,Silicon Valley Bank,de,F7,Finance
+2021-12-01,149,Silicon Valley Bank,de,F7,Finance
+2022-01-01,303,Silicon Valley Bank,de,F7,Finance
+2022-02-01,198,Silicon Valley Bank,de,F7,Finance
+2022-03-01,128,Silicon Valley Bank,de,F7,Finance
+2022-04-01,144,Silicon Valley Bank,de,F7,Finance
+2022-05-01,153,Silicon Valley Bank,de,F7,Finance
+2022-06-01,170,Silicon Valley Bank,de,F7,Finance
+2022-07-01,176,Silicon Valley Bank,de,F7,Finance
+2022-08-01,121,Silicon Valley Bank,de,F7,Finance
+2022-09-01,128,Silicon Valley Bank,de,F7,Finance
+2022-10-01,144,Silicon Valley Bank,de,F7,Finance
+2022-11-01,147,Silicon Valley Bank,de,F7,Finance
+2022-12-01,116,Silicon Valley Bank,de,F7,Finance
+2023-01-01,167,Silicon Valley Bank,de,F7,Finance
+2023-02-01,180,Silicon Valley Bank,de,F7,Finance
+2023-03-01,78671,Silicon Valley Bank,de,F7,Finance
+2023-04-01,4188,Silicon Valley Bank,de,F7,Finance
+2023-05-01,2637,Silicon Valley Bank,de,F7,Finance
+2023-06-01,1410,Silicon Valley Bank,de,F7,Finance
+2023-07-01,1119,Silicon Valley Bank,de,F7,Finance
+2023-08-01,852,Silicon Valley Bank,de,F7,Finance
+2023-09-01,850,Silicon Valley Bank,de,F7,Finance
+2023-10-01,812,Silicon Valley Bank,de,F7,Finance
+2023-11-01,1016,Silicon Valley Bank,de,F7,Finance
+2023-12-01,13,Silicon Valley Bank,de,F7,Finance
+2021-01-01,6544,Silicon Valley Bank,en,F7,Finance
+2021-02-01,5586,Silicon Valley Bank,en,F7,Finance
+2021-03-01,6833,Silicon Valley Bank,en,F7,Finance
+2021-04-01,6849,Silicon Valley Bank,en,F7,Finance
+2021-05-01,6409,Silicon Valley Bank,en,F7,Finance
+2021-06-01,6198,Silicon Valley Bank,en,F7,Finance
+2021-07-01,7082,Silicon Valley Bank,en,F7,Finance
+2021-08-01,6375,Silicon Valley Bank,en,F7,Finance
+2021-09-01,6792,Silicon Valley Bank,en,F7,Finance
+2021-10-01,6765,Silicon Valley Bank,en,F7,Finance
+2021-11-01,6040,Silicon Valley Bank,en,F7,Finance
+2021-12-01,6024,Silicon Valley Bank,en,F7,Finance
+2022-01-01,6970,Silicon Valley Bank,en,F7,Finance
+2022-02-01,7168,Silicon Valley Bank,en,F7,Finance
+2022-03-01,7597,Silicon Valley Bank,en,F7,Finance
+2022-04-01,7896,Silicon Valley Bank,en,F7,Finance
+2022-05-01,7976,Silicon Valley Bank,en,F7,Finance
+2022-06-01,7788,Silicon Valley Bank,en,F7,Finance
+2022-07-01,7427,Silicon Valley Bank,en,F7,Finance
+2022-08-01,8079,Silicon Valley Bank,en,F7,Finance
+2022-09-01,7525,Silicon Valley Bank,en,F7,Finance
+2022-10-01,8012,Silicon Valley Bank,en,F7,Finance
+2022-11-01,6602,Silicon Valley Bank,en,F7,Finance
+2022-12-01,5969,Silicon Valley Bank,en,F7,Finance
+2023-01-01,7879,Silicon Valley Bank,en,F7,Finance
+2023-02-01,7292,Silicon Valley Bank,en,F7,Finance
+2023-03-01,1745822,Silicon Valley Bank,en,F7,Finance
+2023-04-01,76939,Silicon Valley Bank,en,F7,Finance
+2023-05-01,56297,Silicon Valley Bank,en,F7,Finance
+2023-06-01,29940,Silicon Valley Bank,en,F7,Finance
+2023-07-01,23306,Silicon Valley Bank,en,F7,Finance
+2023-08-01,21518,Silicon Valley Bank,en,F7,Finance
+2023-09-01,20695,Silicon Valley Bank,en,F7,Finance
+2023-10-01,21710,Silicon Valley Bank,en,F7,Finance
+2023-11-01,22574,Silicon Valley Bank,en,F7,Finance
+2023-12-01,678,Silicon Valley Bank,en,F7,Finance
+2022-02-01,40,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-03-01,765,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-04-01,661,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-05-01,505,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-06-01,330,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-07-01,188,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-08-01,527,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-09-01,1268,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-10-01,2841,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-11-01,500,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-12-01,531,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-01-01,1223,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-02-01,895,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-03-01,830,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-04-01,693,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-05-01,659,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-06-01,714,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-07-01,748,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-08-01,547,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-09-01,657,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-10-01,487,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-11-01,466,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2023-12-01,16,Russischer Überfall auf die Ukraine,de,G1,Geopolitics
+2022-02-01,9008253,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2022-03-01,14652522,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2022-04-01,6560612,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2022-05-01,4392474,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2022-06-01,2956337,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2022-07-01,2779722,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2022-08-01,2238406,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2022-09-01,3422217,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2022-10-01,2879149,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2022-11-01,2045015,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2022-12-01,1452862,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-01-01,1716169,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-02-01,1749447,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-03-01,726444,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-04-01,298061,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-05-01,293100,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-06-01,290397,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-07-01,216067,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-08-01,191540,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-09-01,159638,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-10-01,142072,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-11-01,133212,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-12-01,4383,2022 Russian invasion of Ukraine,en,G1,Geopolitics
+2023-10-01,26470,2023 Israel-Hamas war,en,G2,Geopolitics
+2023-11-01,15117,2023 Israel-Hamas war,en,G2,Geopolitics
+2023-12-01,331,2023 Israel-Hamas war,en,G2,Geopolitics
+2023-10-01,688394,מלחמת חרבות ברזל,he,G2,Geopolitics
+2023-11-01,544563,מלחמת חרבות ברזל,he,G2,Geopolitics
+2023-12-01,12705,מלחמת חרבות ברזל,he,G2,Geopolitics
+2021-01-01,176099,COVID-19-Pandemie,de,G3,Geopolitics
+2021-02-01,122093,COVID-19-Pandemie,de,G3,Geopolitics
+2021-03-01,145020,COVID-19-Pandemie,de,G3,Geopolitics
+2021-04-01,136433,COVID-19-Pandemie,de,G3,Geopolitics
+2021-05-01,108678,COVID-19-Pandemie,de,G3,Geopolitics
+2021-06-01,82400,COVID-19-Pandemie,de,G3,Geopolitics
+2021-07-01,69346,COVID-19-Pandemie,de,G3,Geopolitics
+2021-08-01,69663,COVID-19-Pandemie,de,G3,Geopolitics
+2021-09-01,63433,COVID-19-Pandemie,de,G3,Geopolitics
+2021-10-01,65596,COVID-19-Pandemie,de,G3,Geopolitics
+2021-11-01,131425,COVID-19-Pandemie,de,G3,Geopolitics
+2021-12-01,110074,COVID-19-Pandemie,de,G3,Geopolitics
+2022-01-01,101799,COVID-19-Pandemie,de,G3,Geopolitics
+2022-02-01,63755,COVID-19-Pandemie,de,G3,Geopolitics
+2022-03-01,51858,COVID-19-Pandemie,de,G3,Geopolitics
+2022-04-01,41149,COVID-19-Pandemie,de,G3,Geopolitics
+2022-05-01,40868,COVID-19-Pandemie,de,G3,Geopolitics
+2022-06-01,37281,COVID-19-Pandemie,de,G3,Geopolitics
+2022-07-01,37443,COVID-19-Pandemie,de,G3,Geopolitics
+2022-08-01,35115,COVID-19-Pandemie,de,G3,Geopolitics
+2022-09-01,35956,COVID-19-Pandemie,de,G3,Geopolitics
+2022-10-01,42723,COVID-19-Pandemie,de,G3,Geopolitics
+2022-11-01,36795,COVID-19-Pandemie,de,G3,Geopolitics
+2022-12-01,37703,COVID-19-Pandemie,de,G3,Geopolitics
+2023-01-01,41288,COVID-19-Pandemie,de,G3,Geopolitics
+2023-02-01,38749,COVID-19-Pandemie,de,G3,Geopolitics
+2023-03-01,46639,COVID-19-Pandemie,de,G3,Geopolitics
+2023-04-01,34827,COVID-19-Pandemie,de,G3,Geopolitics
+2023-05-01,41048,COVID-19-Pandemie,de,G3,Geopolitics
+2023-06-01,37524,COVID-19-Pandemie,de,G3,Geopolitics
+2023-07-01,38842,COVID-19-Pandemie,de,G3,Geopolitics
+2023-08-01,37532,COVID-19-Pandemie,de,G3,Geopolitics
+2023-09-01,31645,COVID-19-Pandemie,de,G3,Geopolitics
+2023-10-01,31153,COVID-19-Pandemie,de,G3,Geopolitics
+2023-11-01,37264,COVID-19-Pandemie,de,G3,Geopolitics
+2023-12-01,1104,COVID-19-Pandemie,de,G3,Geopolitics
+2021-01-01,1345536,COVID-19 pandemic,en,G3,Geopolitics
+2021-02-01,1169886,COVID-19 pandemic,en,G3,Geopolitics
+2021-03-01,1338873,COVID-19 pandemic,en,G3,Geopolitics
+2021-04-01,1277062,COVID-19 pandemic,en,G3,Geopolitics
+2021-05-01,1195838,COVID-19 pandemic,en,G3,Geopolitics
+2021-06-01,999297,COVID-19 pandemic,en,G3,Geopolitics
+2021-07-01,972947,COVID-19 pandemic,en,G3,Geopolitics
+2021-08-01,878245,COVID-19 pandemic,en,G3,Geopolitics
+2021-09-01,850416,COVID-19 pandemic,en,G3,Geopolitics
+2021-10-01,725803,COVID-19 pandemic,en,G3,Geopolitics
+2021-11-01,703166,COVID-19 pandemic,en,G3,Geopolitics
+2021-12-01,766485,COVID-19 pandemic,en,G3,Geopolitics
+2022-01-01,825415,COVID-19 pandemic,en,G3,Geopolitics
+2022-02-01,1425978,COVID-19 pandemic,en,G3,Geopolitics
+2022-03-01,2496525,COVID-19 pandemic,en,G3,Geopolitics
+2022-04-01,504334,COVID-19 pandemic,en,G3,Geopolitics
+2022-05-01,517382,COVID-19 pandemic,en,G3,Geopolitics
+2022-06-01,434244,COVID-19 pandemic,en,G3,Geopolitics
+2022-07-01,419427,COVID-19 pandemic,en,G3,Geopolitics
+2022-08-01,402913,COVID-19 pandemic,en,G3,Geopolitics
+2022-09-01,371021,COVID-19 pandemic,en,G3,Geopolitics
+2022-10-01,375157,COVID-19 pandemic,en,G3,Geopolitics
+2022-11-01,376347,COVID-19 pandemic,en,G3,Geopolitics
+2022-12-01,370126,COVID-19 pandemic,en,G3,Geopolitics
+2023-01-01,385786,COVID-19 pandemic,en,G3,Geopolitics
+2023-02-01,331251,COVID-19 pandemic,en,G3,Geopolitics
+2023-03-01,400331,COVID-19 pandemic,en,G3,Geopolitics
+2023-04-01,331564,COVID-19 pandemic,en,G3,Geopolitics
+2023-05-01,537272,COVID-19 pandemic,en,G3,Geopolitics
+2023-06-01,334592,COVID-19 pandemic,en,G3,Geopolitics
+2023-07-01,334721,COVID-19 pandemic,en,G3,Geopolitics
+2023-08-01,333061,COVID-19 pandemic,en,G3,Geopolitics
+2023-09-01,312914,COVID-19 pandemic,en,G3,Geopolitics
+2023-10-01,349638,COVID-19 pandemic,en,G3,Geopolitics
+2023-11-01,288811,COVID-19 pandemic,en,G3,Geopolitics
+2023-12-01,10027,COVID-19 pandemic,en,G3,Geopolitics
+2021-01-01,636475,Vladimir Putin,en,G4,Geopolitics
+2021-02-01,414023,Vladimir Putin,en,G4,Geopolitics
+2021-03-01,439183,Vladimir Putin,en,G4,Geopolitics
+2021-04-01,553742,Vladimir Putin,en,G4,Geopolitics
+2021-05-01,432509,Vladimir Putin,en,G4,Geopolitics
+2021-06-01,612707,Vladimir Putin,en,G4,Geopolitics
+2021-07-01,324620,Vladimir Putin,en,G4,Geopolitics
+2021-08-01,376725,Vladimir Putin,en,G4,Geopolitics
+2021-09-01,376165,Vladimir Putin,en,G4,Geopolitics
+2021-10-01,358542,Vladimir Putin,en,G4,Geopolitics
+2021-11-01,324905,Vladimir Putin,en,G4,Geopolitics
+2021-12-01,476660,Vladimir Putin,en,G4,Geopolitics
+2022-01-01,727515,Vladimir Putin,en,G4,Geopolitics
+2022-02-01,8150431,Vladimir Putin,en,G4,Geopolitics
+2022-03-01,10831852,Vladimir Putin,en,G4,Geopolitics
+2022-04-01,1360879,Vladimir Putin,en,G4,Geopolitics
+2022-05-01,895078,Vladimir Putin,en,G4,Geopolitics
+2022-06-01,523054,Vladimir Putin,en,G4,Geopolitics
+2022-07-01,544539,Vladimir Putin,en,G4,Geopolitics
+2022-08-01,612935,Vladimir Putin,en,G4,Geopolitics
+2022-09-01,992380,Vladimir Putin,en,G4,Geopolitics
+2022-10-01,1028799,Vladimir Putin,en,G4,Geopolitics
+2022-11-01,634329,Vladimir Putin,en,G4,Geopolitics
+2022-12-01,499810,Vladimir Putin,en,G4,Geopolitics
+2023-01-01,578630,Vladimir Putin,en,G4,Geopolitics
+2023-02-01,688965,Vladimir Putin,en,G4,Geopolitics
+2023-03-01,928537,Vladimir Putin,en,G4,Geopolitics
+2023-04-01,506580,Vladimir Putin,en,G4,Geopolitics
+2023-05-01,608887,Vladimir Putin,en,G4,Geopolitics
+2023-06-01,937829,Vladimir Putin,en,G4,Geopolitics
+2023-07-01,696412,Vladimir Putin,en,G4,Geopolitics
+2023-08-01,644779,Vladimir Putin,en,G4,Geopolitics
+2023-09-01,509377,Vladimir Putin,en,G4,Geopolitics
+2023-10-01,817038,Vladimir Putin,en,G4,Geopolitics
+2023-11-01,606648,Vladimir Putin,en,G4,Geopolitics
+2023-12-01,15203,Vladimir Putin,en,G4,Geopolitics
+2021-01-01,9244,Владимир Путин,ru,G4,Geopolitics
+2021-02-01,6323,Владимир Путин,ru,G4,Geopolitics
+2021-03-01,5616,Владимир Путин,ru,G4,Geopolitics
+2021-04-01,6023,Владимир Путин,ru,G4,Geopolitics
+2021-05-01,5345,Владимир Путин,ru,G4,Geopolitics
+2021-06-01,4953,Владимир Путин,ru,G4,Geopolitics
+2021-07-01,4895,Владимир Путин,ru,G4,Geopolitics
+2021-08-01,5656,Владимир Путин,ru,G4,Geopolitics
+2021-09-01,6457,Владимир Путин,ru,G4,Geopolitics
+2021-10-01,5444,Владимир Путин,ru,G4,Geopolitics
+2021-11-01,5595,Владимир Путин,ru,G4,Geopolitics
+2021-12-01,5730,Владимир Путин,ru,G4,Geopolitics
+2022-01-01,6601,Владимир Путин,ru,G4,Geopolitics
+2022-02-01,13388,Владимир Путин,ru,G4,Geopolitics
+2022-03-01,17604,Владимир Путин,ru,G4,Geopolitics
+2022-04-01,12968,Владимир Путин,ru,G4,Geopolitics
+2022-05-01,8847,Владимир Путин,ru,G4,Geopolitics
+2022-06-01,7403,Владимир Путин,ru,G4,Geopolitics
+2022-07-01,8380,Владимир Путин,ru,G4,Geopolitics
+2022-08-01,9683,Владимир Путин,ru,G4,Geopolitics
+2022-09-01,11689,Владимир Путин,ru,G4,Geopolitics
+2022-10-01,10667,Владимир Путин,ru,G4,Geopolitics
+2022-11-01,7219,Владимир Путин,ru,G4,Geopolitics
+2022-12-01,7235,Владимир Путин,ru,G4,Geopolitics
+2023-01-01,8860,Владимир Путин,ru,G4,Geopolitics
+2023-02-01,7488,Владимир Путин,ru,G4,Geopolitics
+2023-03-01,9657,Владимир Путин,ru,G4,Geopolitics
+2023-04-01,6690,Владимир Путин,ru,G4,Geopolitics
+2023-05-01,7633,Владимир Путин,ru,G4,Geopolitics
+2023-06-01,14977,Владимир Путин,ru,G4,Geopolitics
+2023-07-01,7477,Владимир Путин,ru,G4,Geopolitics
+2023-08-01,9423,Владимир Путин,ru,G4,Geopolitics
+2023-09-01,5346,Владимир Путин,ru,G4,Geopolitics
+2023-10-01,5351,Владимир Путин,ru,G4,Geopolitics
+2023-11-01,5039,Владимир Путин,ru,G4,Geopolitics
+2023-12-01,150,Владимир Путин,ru,G4,Geopolitics
+2021-01-01,452595,Donald Trump,de,G5,Geopolitics
+2021-02-01,98346,Donald Trump,de,G5,Geopolitics
+2021-03-01,61510,Donald Trump,de,G5,Geopolitics
+2021-04-01,57128,Donald Trump,de,G5,Geopolitics
+2021-05-01,51910,Donald Trump,de,G5,Geopolitics
+2021-06-01,53224,Donald Trump,de,G5,Geopolitics
+2021-07-01,38407,Donald Trump,de,G5,Geopolitics
+2021-08-01,36171,Donald Trump,de,G5,Geopolitics
+2021-09-01,37426,Donald Trump,de,G5,Geopolitics
+2021-10-01,39602,Donald Trump,de,G5,Geopolitics
+2021-11-01,42784,Donald Trump,de,G5,Geopolitics
+2021-12-01,51184,Donald Trump,de,G5,Geopolitics
+2022-01-01,60806,Donald Trump,de,G5,Geopolitics
+2022-02-01,55848,Donald Trump,de,G5,Geopolitics
+2022-03-01,50710,Donald Trump,de,G5,Geopolitics
+2022-04-01,37255,Donald Trump,de,G5,Geopolitics
+2022-05-01,36206,Donald Trump,de,G5,Geopolitics
+2022-06-01,40131,Donald Trump,de,G5,Geopolitics
+2022-07-01,114279,Donald Trump,de,G5,Geopolitics
+2022-08-01,83367,Donald Trump,de,G5,Geopolitics
+2022-09-01,55784,Donald Trump,de,G5,Geopolitics
+2022-10-01,54093,Donald Trump,de,G5,Geopolitics
+2022-11-01,135026,Donald Trump,de,G5,Geopolitics
+2022-12-01,46319,Donald Trump,de,G5,Geopolitics
+2023-01-01,51302,Donald Trump,de,G5,Geopolitics
+2023-02-01,47455,Donald Trump,de,G5,Geopolitics
+2023-03-01,74101,Donald Trump,de,G5,Geopolitics
+2023-04-01,97955,Donald Trump,de,G5,Geopolitics
+2023-05-01,58863,Donald Trump,de,G5,Geopolitics
+2023-06-01,61363,Donald Trump,de,G5,Geopolitics
+2023-07-01,34368,Donald Trump,de,G5,Geopolitics
+2023-08-01,91340,Donald Trump,de,G5,Geopolitics
+2023-09-01,41360,Donald Trump,de,G5,Geopolitics
+2023-10-01,58065,Donald Trump,de,G5,Geopolitics
+2023-11-01,63863,Donald Trump,de,G5,Geopolitics
+2023-12-01,1400,Donald Trump,de,G5,Geopolitics
+2021-01-01,29200559,Donald Trump,en,G5,Geopolitics
+2021-02-01,20492276,Donald Trump,en,G5,Geopolitics
+2021-03-01,12977181,Donald Trump,en,G5,Geopolitics
+2021-04-01,13581508,Donald Trump,en,G5,Geopolitics
+2021-05-01,14513085,Donald Trump,en,G5,Geopolitics
+2021-06-01,13880604,Donald Trump,en,G5,Geopolitics
+2021-07-01,26200166,Donald Trump,en,G5,Geopolitics
+2021-08-01,26604488,Donald Trump,en,G5,Geopolitics
+2021-09-01,22407628,Donald Trump,en,G5,Geopolitics
+2021-10-01,15101521,Donald Trump,en,G5,Geopolitics
+2021-11-01,14288110,Donald Trump,en,G5,Geopolitics
+2021-12-01,14636570,Donald Trump,en,G5,Geopolitics
+2022-01-01,14089045,Donald Trump,en,G5,Geopolitics
+2022-02-01,11135463,Donald Trump,en,G5,Geopolitics
+2022-03-01,9476205,Donald Trump,en,G5,Geopolitics
+2022-04-01,11416319,Donald Trump,en,G5,Geopolitics
+2022-05-01,11991042,Donald Trump,en,G5,Geopolitics
+2022-06-01,9768502,Donald Trump,en,G5,Geopolitics
+2022-07-01,11003878,Donald Trump,en,G5,Geopolitics
+2022-08-01,10583384,Donald Trump,en,G5,Geopolitics
+2022-09-01,10014070,Donald Trump,en,G5,Geopolitics
+2022-10-01,9214328,Donald Trump,en,G5,Geopolitics
+2022-11-01,9648113,Donald Trump,en,G5,Geopolitics
+2022-12-01,5081183,Donald Trump,en,G5,Geopolitics
+2023-01-01,2225739,Donald Trump,en,G5,Geopolitics
+2023-02-01,2161233,Donald Trump,en,G5,Geopolitics
+2023-03-01,3359284,Donald Trump,en,G5,Geopolitics
+2023-04-01,3428222,Donald Trump,en,G5,Geopolitics
+2023-05-01,3426707,Donald Trump,en,G5,Geopolitics
+2023-06-01,5059463,Donald Trump,en,G5,Geopolitics
+2023-07-01,5310465,Donald Trump,en,G5,Geopolitics
+2023-08-01,6125031,Donald Trump,en,G5,Geopolitics
+2023-09-01,5153307,Donald Trump,en,G5,Geopolitics
+2023-10-01,6108442,Donald Trump,en,G5,Geopolitics
+2023-11-01,6916559,Donald Trump,en,G5,Geopolitics
+2023-12-01,178725,Donald Trump,en,G5,Geopolitics
+2021-01-01,450025,Taiwan,en,G6,Geopolitics
+2021-02-01,362011,Taiwan,en,G6,Geopolitics
+2021-03-01,449876,Taiwan,en,G6,Geopolitics
+2021-04-01,537188,Taiwan,en,G6,Geopolitics
+2021-05-01,744304,Taiwan,en,G6,Geopolitics
+2021-06-01,480643,Taiwan,en,G6,Geopolitics
+2021-07-01,598713,Taiwan,en,G6,Geopolitics
+2021-08-01,597386,Taiwan,en,G6,Geopolitics
+2021-09-01,463763,Taiwan,en,G6,Geopolitics
+2021-10-01,978231,Taiwan,en,G6,Geopolitics
+2021-11-01,496088,Taiwan,en,G6,Geopolitics
+2021-12-01,442599,Taiwan,en,G6,Geopolitics
+2022-01-01,453955,Taiwan,en,G6,Geopolitics
+2022-02-01,671278,Taiwan,en,G6,Geopolitics
+2022-03-01,717247,Taiwan,en,G6,Geopolitics
+2022-04-01,434777,Taiwan,en,G6,Geopolitics
+2022-05-01,516929,Taiwan,en,G6,Geopolitics
+2022-06-01,437695,Taiwan,en,G6,Geopolitics
+2022-07-01,556005,Taiwan,en,G6,Geopolitics
+2022-08-01,2112258,Taiwan,en,G6,Geopolitics
+2022-09-01,522997,Taiwan,en,G6,Geopolitics
+2022-10-01,531993,Taiwan,en,G6,Geopolitics
+2022-11-01,478385,Taiwan,en,G6,Geopolitics
+2022-12-01,395126,Taiwan,en,G6,Geopolitics
+2023-01-01,447961,Taiwan,en,G6,Geopolitics
+2023-02-01,445141,Taiwan,en,G6,Geopolitics
+2023-03-01,590805,Taiwan,en,G6,Geopolitics
+2023-04-01,660469,Taiwan,en,G6,Geopolitics
+2023-05-01,440022,Taiwan,en,G6,Geopolitics
+2023-06-01,467022,Taiwan,en,G6,Geopolitics
+2023-07-01,459001,Taiwan,en,G6,Geopolitics
+2023-08-01,465691,Taiwan,en,G6,Geopolitics
+2023-09-01,450503,Taiwan,en,G6,Geopolitics
+2023-10-01,443445,Taiwan,en,G6,Geopolitics
+2023-11-01,436240,Taiwan,en,G6,Geopolitics
+2023-12-01,12616,Taiwan,en,G6,Geopolitics
+2021-01-01,75417,臺灣,zh,G6,Geopolitics
+2021-02-01,69871,臺灣,zh,G6,Geopolitics
+2021-03-01,85261,臺灣,zh,G6,Geopolitics
+2021-04-01,83783,臺灣,zh,G6,Geopolitics
+2021-05-01,107592,臺灣,zh,G6,Geopolitics
+2021-06-01,126527,臺灣,zh,G6,Geopolitics
+2021-07-01,118625,臺灣,zh,G6,Geopolitics
+2021-08-01,106417,臺灣,zh,G6,Geopolitics
+2021-09-01,94201,臺灣,zh,G6,Geopolitics
+2021-10-01,90292,臺灣,zh,G6,Geopolitics
+2021-11-01,106625,臺灣,zh,G6,Geopolitics
+2021-12-01,100054,臺灣,zh,G6,Geopolitics
+2022-01-01,74799,臺灣,zh,G6,Geopolitics
+2022-02-01,85248,臺灣,zh,G6,Geopolitics
+2022-03-01,93418,臺灣,zh,G6,Geopolitics
+2022-04-01,76531,臺灣,zh,G6,Geopolitics
+2022-05-01,66769,臺灣,zh,G6,Geopolitics
+2022-06-01,63404,臺灣,zh,G6,Geopolitics
+2022-07-01,70067,臺灣,zh,G6,Geopolitics
+2022-08-01,165525,臺灣,zh,G6,Geopolitics
+2022-09-01,78879,臺灣,zh,G6,Geopolitics
+2022-10-01,81476,臺灣,zh,G6,Geopolitics
+2022-11-01,91308,臺灣,zh,G6,Geopolitics
+2022-12-01,83660,臺灣,zh,G6,Geopolitics
+2023-01-01,67036,臺灣,zh,G6,Geopolitics
+2023-02-01,66501,臺灣,zh,G6,Geopolitics
+2023-03-01,89044,臺灣,zh,G6,Geopolitics
+2023-04-01,89314,臺灣,zh,G6,Geopolitics
+2023-05-01,98224,臺灣,zh,G6,Geopolitics
+2023-06-01,90309,臺灣,zh,G6,Geopolitics
+2023-07-01,87056,臺灣,zh,G6,Geopolitics
+2023-08-01,88664,臺灣,zh,G6,Geopolitics
+2023-09-01,84686,臺灣,zh,G6,Geopolitics
+2023-10-01,114875,臺灣,zh,G6,Geopolitics
+2023-11-01,90107,臺灣,zh,G6,Geopolitics
+2023-12-01,3263,臺灣,zh,G6,Geopolitics
+2021-01-01,319421,Xi Jinping,en,G7,Geopolitics
+2021-02-01,245575,Xi Jinping,en,G7,Geopolitics
+2021-03-01,295727,Xi Jinping,en,G7,Geopolitics
+2021-04-01,272414,Xi Jinping,en,G7,Geopolitics
+2021-05-01,281518,Xi Jinping,en,G7,Geopolitics
+2021-06-01,287085,Xi Jinping,en,G7,Geopolitics
+2021-07-01,326942,Xi Jinping,en,G7,Geopolitics
+2021-08-01,280738,Xi Jinping,en,G7,Geopolitics
+2021-09-01,325501,Xi Jinping,en,G7,Geopolitics
+2021-10-01,341787,Xi Jinping,en,G7,Geopolitics
+2021-11-01,404106,Xi Jinping,en,G7,Geopolitics
+2021-12-01,291712,Xi Jinping,en,G7,Geopolitics
+2022-01-01,290609,Xi Jinping,en,G7,Geopolitics
+2022-02-01,479959,Xi Jinping,en,G7,Geopolitics
+2022-03-01,457588,Xi Jinping,en,G7,Geopolitics
+2022-04-01,247722,Xi Jinping,en,G7,Geopolitics
+2022-05-01,258560,Xi Jinping,en,G7,Geopolitics
+2022-06-01,204705,Xi Jinping,en,G7,Geopolitics
+2022-07-01,261997,Xi Jinping,en,G7,Geopolitics
+2022-08-01,345234,Xi Jinping,en,G7,Geopolitics
+2022-09-01,655308,Xi Jinping,en,G7,Geopolitics
+2022-10-01,1006735,Xi Jinping,en,G7,Geopolitics
+2022-11-01,482583,Xi Jinping,en,G7,Geopolitics
+2022-12-01,283320,Xi Jinping,en,G7,Geopolitics
+2023-01-01,232793,Xi Jinping,en,G7,Geopolitics
+2023-02-01,263658,Xi Jinping,en,G7,Geopolitics
+2023-03-01,509986,Xi Jinping,en,G7,Geopolitics
+2023-04-01,282783,Xi Jinping,en,G7,Geopolitics
+2023-05-01,236838,Xi Jinping,en,G7,Geopolitics
+2023-06-01,326259,Xi Jinping,en,G7,Geopolitics
+2023-07-01,284719,Xi Jinping,en,G7,Geopolitics
+2023-08-01,292173,Xi Jinping,en,G7,Geopolitics
+2023-09-01,297890,Xi Jinping,en,G7,Geopolitics
+2023-10-01,288755,Xi Jinping,en,G7,Geopolitics
+2023-11-01,422132,Xi Jinping,en,G7,Geopolitics
+2023-12-01,10142,Xi Jinping,en,G7,Geopolitics
+2021-01-01,163345,习近平,zh,G7,Geopolitics
+2021-02-01,199787,习近平,zh,G7,Geopolitics
+2021-03-01,283218,习近平,zh,G7,Geopolitics
+2021-04-01,259138,习近平,zh,G7,Geopolitics
+2021-05-01,240655,习近平,zh,G7,Geopolitics
+2021-06-01,280517,习近平,zh,G7,Geopolitics
+2021-07-01,316030,习近平,zh,G7,Geopolitics
+2021-08-01,325041,习近平,zh,G7,Geopolitics
+2021-09-01,320720,习近平,zh,G7,Geopolitics
+2021-10-01,309344,习近平,zh,G7,Geopolitics
+2021-11-01,333873,习近平,zh,G7,Geopolitics
+2021-12-01,284430,习近平,zh,G7,Geopolitics
+2022-01-01,257798,习近平,zh,G7,Geopolitics
+2022-02-01,306978,习近平,zh,G7,Geopolitics
+2022-03-01,365676,习近平,zh,G7,Geopolitics
+2022-04-01,433212,习近平,zh,G7,Geopolitics
+2022-05-01,336453,习近平,zh,G7,Geopolitics
+2022-06-01,282667,习近平,zh,G7,Geopolitics
+2022-07-01,318766,习近平,zh,G7,Geopolitics
+2022-08-01,349406,习近平,zh,G7,Geopolitics
+2022-09-01,346031,习近平,zh,G7,Geopolitics
+2022-10-01,1069965,习近平,zh,G7,Geopolitics
+2022-11-01,597787,习近平,zh,G7,Geopolitics
+2022-12-01,516689,习近平,zh,G7,Geopolitics
+2023-01-01,286025,习近平,zh,G7,Geopolitics
+2023-02-01,229878,习近平,zh,G7,Geopolitics
+2023-03-01,537694,习近平,zh,G7,Geopolitics
+2023-04-01,345640,习近平,zh,G7,Geopolitics
+2023-05-01,423312,习近平,zh,G7,Geopolitics
+2023-06-01,411024,习近平,zh,G7,Geopolitics
+2023-07-01,363609,习近平,zh,G7,Geopolitics
+2023-08-01,398563,习近平,zh,G7,Geopolitics
+2023-09-01,320413,习近平,zh,G7,Geopolitics
+2023-10-01,493974,习近平,zh,G7,Geopolitics
+2023-11-01,381235,习近平,zh,G7,Geopolitics
+2023-12-01,10912,习近平,zh,G7,Geopolitics
+2021-01-01,743464,Netflix,en,M1,Media
+2021-02-01,584009,Netflix,en,M1,Media
+2021-03-01,649398,Netflix,en,M1,Media
+2021-04-01,534818,Netflix,en,M1,Media
+2021-05-01,439429,Netflix,en,M1,Media
+2021-06-01,406464,Netflix,en,M1,Media
+2021-07-01,1014227,Netflix,en,M1,Media
+2021-08-01,922064,Netflix,en,M1,Media
+2021-09-01,972743,Netflix,en,M1,Media
+2021-10-01,1018991,Netflix,en,M1,Media
+2021-11-01,870718,Netflix,en,M1,Media
+2021-12-01,891653,Netflix,en,M1,Media
+2022-01-01,1016612,Netflix,en,M1,Media
+2022-02-01,855205,Netflix,en,M1,Media
+2022-03-01,840193,Netflix,en,M1,Media
+2022-04-01,863348,Netflix,en,M1,Media
+2022-05-01,859842,Netflix,en,M1,Media
+2022-06-01,879682,Netflix,en,M1,Media
+2022-07-01,988254,Netflix,en,M1,Media
+2022-08-01,938087,Netflix,en,M1,Media
+2022-09-01,877379,Netflix,en,M1,Media
+2022-10-01,884930,Netflix,en,M1,Media
+2022-11-01,1030766,Netflix,en,M1,Media
+2022-12-01,910508,Netflix,en,M1,Media
+2023-01-01,930250,Netflix,en,M1,Media
+2023-02-01,689671,Netflix,en,M1,Media
+2023-03-01,732916,Netflix,en,M1,Media
+2023-04-01,720221,Netflix,en,M1,Media
+2023-05-01,853989,Netflix,en,M1,Media
+2023-06-01,700697,Netflix,en,M1,Media
+2023-07-01,864944,Netflix,en,M1,Media
+2023-08-01,683842,Netflix,en,M1,Media
+2023-09-01,610201,Netflix,en,M1,Media
+2023-10-01,458516,Netflix,en,M1,Media
+2023-11-01,431750,Netflix,en,M1,Media
+2023-12-01,13626,Netflix,en,M1,Media
+2021-01-01,117431,Netflix,ja,M1,Media
+2021-02-01,90827,Netflix,ja,M1,Media
+2021-03-01,83060,Netflix,ja,M1,Media
+2021-04-01,71951,Netflix,ja,M1,Media
+2021-05-01,70626,Netflix,ja,M1,Media
+2021-06-01,63726,Netflix,ja,M1,Media
+2021-07-01,64247,Netflix,ja,M1,Media
+2021-08-01,71016,Netflix,ja,M1,Media
+2021-09-01,70353,Netflix,ja,M1,Media
+2021-10-01,88695,Netflix,ja,M1,Media
+2021-11-01,79335,Netflix,ja,M1,Media
+2021-12-01,80298,Netflix,ja,M1,Media
+2022-01-01,85260,Netflix,ja,M1,Media
+2022-02-01,68491,Netflix,ja,M1,Media
+2022-03-01,61963,Netflix,ja,M1,Media
+2022-04-01,58393,Netflix,ja,M1,Media
+2022-05-01,46331,Netflix,ja,M1,Media
+2022-06-01,46812,Netflix,ja,M1,Media
+2022-07-01,52699,Netflix,ja,M1,Media
+2022-08-01,49261,Netflix,ja,M1,Media
+2022-09-01,43377,Netflix,ja,M1,Media
+2022-10-01,43797,Netflix,ja,M1,Media
+2022-11-01,47223,Netflix,ja,M1,Media
+2022-12-01,63609,Netflix,ja,M1,Media
+2023-01-01,64774,Netflix,ja,M1,Media
+2023-02-01,43548,Netflix,ja,M1,Media
+2023-03-01,42076,Netflix,ja,M1,Media
+2023-04-01,41181,Netflix,ja,M1,Media
+2023-05-01,44819,Netflix,ja,M1,Media
+2023-06-01,58794,Netflix,ja,M1,Media
+2023-07-01,49571,Netflix,ja,M1,Media
+2023-08-01,44949,Netflix,ja,M1,Media
+2023-09-01,51658,Netflix,ja,M1,Media
+2023-10-01,36274,Netflix,ja,M1,Media
+2023-11-01,25616,Netflix,ja,M1,Media
+2023-12-01,793,Netflix,ja,M1,Media
+2021-01-01,208146,The Walt Disney Company,en,M2,Media
+2021-02-01,196979,The Walt Disney Company,en,M2,Media
+2021-03-01,219041,The Walt Disney Company,en,M2,Media
+2021-04-01,197569,The Walt Disney Company,en,M2,Media
+2021-05-01,202235,The Walt Disney Company,en,M2,Media
+2021-06-01,184676,The Walt Disney Company,en,M2,Media
+2021-07-01,218810,The Walt Disney Company,en,M2,Media
+2021-08-01,219889,The Walt Disney Company,en,M2,Media
+2021-09-01,212919,The Walt Disney Company,en,M2,Media
+2021-10-01,219490,The Walt Disney Company,en,M2,Media
+2021-11-01,199684,The Walt Disney Company,en,M2,Media
+2021-12-01,216685,The Walt Disney Company,en,M2,Media
+2022-01-01,248676,The Walt Disney Company,en,M2,Media
+2022-02-01,211473,The Walt Disney Company,en,M2,Media
+2022-03-01,237304,The Walt Disney Company,en,M2,Media
+2022-04-01,291250,The Walt Disney Company,en,M2,Media
+2022-05-01,242410,The Walt Disney Company,en,M2,Media
+2022-06-01,215559,The Walt Disney Company,en,M2,Media
+2022-07-01,267608,The Walt Disney Company,en,M2,Media
+2022-08-01,212906,The Walt Disney Company,en,M2,Media
+2022-09-01,228452,The Walt Disney Company,en,M2,Media
+2022-10-01,237316,The Walt Disney Company,en,M2,Media
+2022-11-01,294305,The Walt Disney Company,en,M2,Media
+2022-12-01,233942,The Walt Disney Company,en,M2,Media
+2023-01-01,238454,The Walt Disney Company,en,M2,Media
+2023-02-01,235835,The Walt Disney Company,en,M2,Media
+2023-03-01,236924,The Walt Disney Company,en,M2,Media
+2023-04-01,246115,The Walt Disney Company,en,M2,Media
+2023-05-01,238958,The Walt Disney Company,en,M2,Media
+2023-06-01,210933,The Walt Disney Company,en,M2,Media
+2023-07-01,244407,The Walt Disney Company,en,M2,Media
+2023-08-01,259821,The Walt Disney Company,en,M2,Media
+2023-09-01,210127,The Walt Disney Company,en,M2,Media
+2023-10-01,280003,The Walt Disney Company,en,M2,Media
+2023-11-01,231024,The Walt Disney Company,en,M2,Media
+2023-12-01,8643,The Walt Disney Company,en,M2,Media
+2021-01-01,15969,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-02-01,13601,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-03-01,13729,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-04-01,12012,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-05-01,16079,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-06-01,14620,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-07-01,14075,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-08-01,16263,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-09-01,14809,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-10-01,18057,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-11-01,16275,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-12-01,17861,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-01-01,16231,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-02-01,12623,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-03-01,13975,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-04-01,14523,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-05-01,15289,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-06-01,15383,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-07-01,14691,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-08-01,16133,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-09-01,16299,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-10-01,16561,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-11-01,16791,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2022-12-01,17482,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-01-01,18496,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-02-01,16759,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-03-01,16401,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-04-01,18060,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-05-01,19472,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-06-01,22803,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-07-01,18493,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-08-01,20693,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-09-01,16602,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-10-01,21120,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-11-01,19892,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2023-12-01,801,ウォルト・ディズニー・カンパニー,ja,M2,Media
+2021-01-01,561489,Taylor Swift,en,M3,Media
+2021-02-01,644650,Taylor Swift,en,M3,Media
+2021-03-01,866319,Taylor Swift,en,M3,Media
+2021-04-01,829771,Taylor Swift,en,M3,Media
+2021-05-01,641239,Taylor Swift,en,M3,Media
+2021-06-01,573933,Taylor Swift,en,M3,Media
+2021-07-01,544678,Taylor Swift,en,M3,Media
+2021-08-01,518744,Taylor Swift,en,M3,Media
+2021-09-01,507087,Taylor Swift,en,M3,Media
+2021-10-01,544143,Taylor Swift,en,M3,Media
+2021-11-01,1586887,Taylor Swift,en,M3,Media
+2021-12-01,640727,Taylor Swift,en,M3,Media
+2022-01-01,567430,Taylor Swift,en,M3,Media
+2022-02-01,468097,Taylor Swift,en,M3,Media
+2022-03-01,532982,Taylor Swift,en,M3,Media
+2022-04-01,465894,Taylor Swift,en,M3,Media
+2022-05-01,756353,Taylor Swift,en,M3,Media
+2022-06-01,431661,Taylor Swift,en,M3,Media
+2022-07-01,466699,Taylor Swift,en,M3,Media
+2022-08-01,644818,Taylor Swift,en,M3,Media
+2022-09-01,628437,Taylor Swift,en,M3,Media
+2022-10-01,1431262,Taylor Swift,en,M3,Media
+2022-11-01,1624061,Taylor Swift,en,M3,Media
+2022-12-01,880978,Taylor Swift,en,M3,Media
+2023-01-01,845312,Taylor Swift,en,M3,Media
+2023-02-01,1732472,Taylor Swift,en,M3,Media
+2023-03-01,1275478,Taylor Swift,en,M3,Media
+2023-04-01,1458178,Taylor Swift,en,M3,Media
+2023-05-01,1897048,Taylor Swift,en,M3,Media
+2023-06-01,1804611,Taylor Swift,en,M3,Media
+2023-07-01,2518796,Taylor Swift,en,M3,Media
+2023-08-01,2354306,Taylor Swift,en,M3,Media
+2023-09-01,3367789,Taylor Swift,en,M3,Media
+2023-10-01,3433716,Taylor Swift,en,M3,Media
+2023-11-01,2478363,Taylor Swift,en,M3,Media
+2023-12-01,60540,Taylor Swift,en,M3,Media
+2021-01-01,2091,테일러 스위프트,ko,M3,Media
+2021-02-01,3573,테일러 스위프트,ko,M3,Media
+2021-03-01,1891,테일러 스위프트,ko,M3,Media
+2021-04-01,1738,테일러 스위프트,ko,M3,Media
+2021-05-01,1536,테일러 스위프트,ko,M3,Media
+2021-06-01,1739,테일러 스위프트,ko,M3,Media
+2021-07-01,1852,테일러 스위프트,ko,M3,Media
+2021-08-01,1898,테일러 스위프트,ko,M3,Media
+2021-09-01,1798,테일러 스위프트,ko,M3,Media
+2021-10-01,1604,테일러 스위프트,ko,M3,Media
+2021-11-01,1964,테일러 스위프트,ko,M3,Media
+2021-12-01,1466,테일러 스위프트,ko,M3,Media
+2022-01-01,1573,테일러 스위프트,ko,M3,Media
+2022-02-01,1219,테일러 스위프트,ko,M3,Media
+2022-03-01,1301,테일러 스위프트,ko,M3,Media
+2022-04-01,1364,테일러 스위프트,ko,M3,Media
+2022-05-01,1923,테일러 스위프트,ko,M3,Media
+2022-06-01,989,테일러 스위프트,ko,M3,Media
+2022-07-01,1083,테일러 스위프트,ko,M3,Media
+2022-08-01,1160,테일러 스위프트,ko,M3,Media
+2022-09-01,1070,테일러 스위프트,ko,M3,Media
+2022-10-01,1647,테일러 스위프트,ko,M3,Media
+2022-11-01,2885,테일러 스위프트,ko,M3,Media
+2022-12-01,1220,테일러 스위프트,ko,M3,Media
+2023-01-01,1224,테일러 스위프트,ko,M3,Media
+2023-02-01,1559,테일러 스위프트,ko,M3,Media
+2023-03-01,1637,테일러 스위프트,ko,M3,Media
+2023-04-01,1594,테일러 스위프트,ko,M3,Media
+2023-05-01,2183,테일러 스위프트,ko,M3,Media
+2023-06-01,1995,테일러 스위프트,ko,M3,Media
+2023-07-01,5752,테일러 스위프트,ko,M3,Media
+2023-08-01,7587,테일러 스위프트,ko,M3,Media
+2023-09-01,4812,테일러 스위프트,ko,M3,Media
+2023-10-01,6131,테일러 스위프트,ko,M3,Media
+2023-11-01,8208,테일러 스위프트,ko,M3,Media
+2023-12-01,670,테일러 스위프트,ko,M3,Media
+2021-01-01,52797,BTS (band),en,M4,Media
+2021-02-01,44247,BTS (band),en,M4,Media
+2021-03-01,56810,BTS (band),en,M4,Media
+2021-04-01,46576,BTS (band),en,M4,Media
+2021-05-01,56420,BTS (band),en,M4,Media
+2021-06-01,50660,BTS (band),en,M4,Media
+2021-07-01,41934,BTS (band),en,M4,Media
+2021-08-01,22579,BTS (band),en,M4,Media
+2021-09-01,23182,BTS (band),en,M4,Media
+2021-10-01,18348,BTS (band),en,M4,Media
+2021-11-01,12450,BTS (band),en,M4,Media
+2021-12-01,11888,BTS (band),en,M4,Media
+2022-01-01,10551,BTS (band),en,M4,Media
+2022-02-01,8817,BTS (band),en,M4,Media
+2022-03-01,9853,BTS (band),en,M4,Media
+2022-04-01,8885,BTS (band),en,M4,Media
+2022-05-01,7179,BTS (band),en,M4,Media
+2022-06-01,7715,BTS (band),en,M4,Media
+2022-07-01,6554,BTS (band),en,M4,Media
+2022-08-01,6643,BTS (band),en,M4,Media
+2022-09-01,6306,BTS (band),en,M4,Media
+2022-10-01,5833,BTS (band),en,M4,Media
+2022-11-01,5858,BTS (band),en,M4,Media
+2022-12-01,5684,BTS (band),en,M4,Media
+2023-01-01,6450,BTS (band),en,M4,Media
+2023-02-01,5473,BTS (band),en,M4,Media
+2023-03-01,7131,BTS (band),en,M4,Media
+2023-04-01,6426,BTS (band),en,M4,Media
+2023-05-01,6940,BTS (band),en,M4,Media
+2023-06-01,7484,BTS (band),en,M4,Media
+2023-07-01,5970,BTS (band),en,M4,Media
+2023-08-01,5750,BTS (band),en,M4,Media
+2023-09-01,5206,BTS (band),en,M4,Media
+2023-10-01,5828,BTS (band),en,M4,Media
+2023-11-01,5163,BTS (band),en,M4,Media
+2023-12-01,180,BTS (band),en,M4,Media
+2021-01-01,32371,방탄소년단,ko,M4,Media
+2021-02-01,24308,방탄소년단,ko,M4,Media
+2021-03-01,43438,방탄소년단,ko,M4,Media
+2021-04-01,34160,방탄소년단,ko,M4,Media
+2021-05-01,35461,방탄소년단,ko,M4,Media
+2021-06-01,38000,방탄소년단,ko,M4,Media
+2021-07-01,36954,방탄소년단,ko,M4,Media
+2021-08-01,27085,방탄소년단,ko,M4,Media
+2021-09-01,27561,방탄소년단,ko,M4,Media
+2021-10-01,24582,방탄소년단,ko,M4,Media
+2021-11-01,23911,방탄소년단,ko,M4,Media
+2021-12-01,22523,방탄소년단,ko,M4,Media
+2022-01-01,17617,방탄소년단,ko,M4,Media
+2022-02-01,14323,방탄소년단,ko,M4,Media
+2022-03-01,14868,방탄소년단,ko,M4,Media
+2022-04-01,18297,방탄소년단,ko,M4,Media
+2022-05-01,14809,방탄소년단,ko,M4,Media
+2022-06-01,17613,방탄소년단,ko,M4,Media
+2022-07-01,12768,방탄소년단,ko,M4,Media
+2022-08-01,14648,방탄소년단,ko,M4,Media
+2022-09-01,12368,방탄소년단,ko,M4,Media
+2022-10-01,20341,방탄소년단,ko,M4,Media
+2022-11-01,16375,방탄소년단,ko,M4,Media
+2022-12-01,12735,방탄소년단,ko,M4,Media
+2023-01-01,10693,방탄소년단,ko,M4,Media
+2023-02-01,10935,방탄소년단,ko,M4,Media
+2023-03-01,11124,방탄소년단,ko,M4,Media
+2023-04-01,10285,방탄소년단,ko,M4,Media
+2023-05-01,10439,방탄소년단,ko,M4,Media
+2023-06-01,11622,방탄소년단,ko,M4,Media
+2023-07-01,13285,방탄소년단,ko,M4,Media
+2023-08-01,16785,방탄소년단,ko,M4,Media
+2023-09-01,17364,방탄소년단,ko,M4,Media
+2023-10-01,15471,방탄소년단,ko,M4,Media
+2023-11-01,14388,방탄소년단,ko,M4,Media
+2023-12-01,433,방탄소년단,ko,M4,Media
+2021-01-01,25737,Kanye West,de,M5,Media
+2021-02-01,25128,Kanye West,de,M5,Media
+2021-03-01,17872,Kanye West,de,M5,Media
+2021-04-01,19052,Kanye West,de,M5,Media
+2021-05-01,16490,Kanye West,de,M5,Media
+2021-06-01,18570,Kanye West,de,M5,Media
+2021-07-01,19099,Kanye West,de,M5,Media
+2021-08-01,35686,Kanye West,de,M5,Media
+2021-09-01,34124,Kanye West,de,M5,Media
+2021-10-01,31076,Kanye West,de,M5,Media
+2021-11-01,22861,Kanye West,de,M5,Media
+2021-12-01,30405,Kanye West,de,M5,Media
+2022-01-01,38356,Kanye West,de,M5,Media
+2022-02-01,63367,Kanye West,de,M5,Media
+2022-03-01,52541,Kanye West,de,M5,Media
+2022-04-01,28467,Kanye West,de,M5,Media
+2022-05-01,21796,Kanye West,de,M5,Media
+2022-06-01,21844,Kanye West,de,M5,Media
+2022-07-01,20491,Kanye West,de,M5,Media
+2022-08-01,22420,Kanye West,de,M5,Media
+2022-09-01,24127,Kanye West,de,M5,Media
+2022-10-01,146109,Kanye West,de,M5,Media
+2022-11-01,56651,Kanye West,de,M5,Media
+2022-12-01,75117,Kanye West,de,M5,Media
+2023-01-01,33814,Kanye West,de,M5,Media
+2023-02-01,29398,Kanye West,de,M5,Media
+2023-03-01,27130,Kanye West,de,M5,Media
+2023-04-01,19836,Kanye West,de,M5,Media
+2023-05-01,32778,Kanye West,de,M5,Media
+2023-06-01,26018,Kanye West,de,M5,Media
+2023-07-01,25787,Kanye West,de,M5,Media
+2023-08-01,35451,Kanye West,de,M5,Media
+2023-09-01,44861,Kanye West,de,M5,Media
+2023-10-01,28758,Kanye West,de,M5,Media
+2023-11-01,26205,Kanye West,de,M5,Media
+2023-12-01,708,Kanye West,de,M5,Media
+2021-01-01,610123,Kanye West,en,M5,Media
+2021-02-01,503609,Kanye West,en,M5,Media
+2021-03-01,555209,Kanye West,en,M5,Media
+2021-04-01,500849,Kanye West,en,M5,Media
+2021-05-01,434243,Kanye West,en,M5,Media
+2021-06-01,499599,Kanye West,en,M5,Media
+2021-07-01,730725,Kanye West,en,M5,Media
+2021-08-01,1155212,Kanye West,en,M5,Media
+2021-09-01,896707,Kanye West,en,M5,Media
+2021-10-01,940772,Kanye West,en,M5,Media
+2021-11-01,711616,Kanye West,en,M5,Media
+2021-12-01,584957,Kanye West,en,M5,Media
+2022-01-01,863899,Kanye West,en,M5,Media
+2022-02-01,1602506,Kanye West,en,M5,Media
+2022-03-01,1235821,Kanye West,en,M5,Media
+2022-04-01,614037,Kanye West,en,M5,Media
+2022-05-01,517898,Kanye West,en,M5,Media
+2022-06-01,433077,Kanye West,en,M5,Media
+2022-07-01,418125,Kanye West,en,M5,Media
+2022-08-01,485947,Kanye West,en,M5,Media
+2022-09-01,516103,Kanye West,en,M5,Media
+2022-10-01,2530940,Kanye West,en,M5,Media
+2022-11-01,1031511,Kanye West,en,M5,Media
+2022-12-01,1257622,Kanye West,en,M5,Media
+2023-01-01,811546,Kanye West,en,M5,Media
+2023-02-01,565565,Kanye West,en,M5,Media
+2023-03-01,550330,Kanye West,en,M5,Media
+2023-04-01,418059,Kanye West,en,M5,Media
+2023-05-01,723686,Kanye West,en,M5,Media
+2023-06-01,748796,Kanye West,en,M5,Media
+2023-07-01,595569,Kanye West,en,M5,Media
+2023-08-01,751360,Kanye West,en,M5,Media
+2023-09-01,670902,Kanye West,en,M5,Media
+2023-10-01,552130,Kanye West,en,M5,Media
+2023-11-01,555777,Kanye West,en,M5,Media
+2023-12-01,17152,Kanye West,en,M5,Media
+2021-01-01,572917,Marvel Cinematic Universe,en,M6,Media
+2021-02-01,747656,Marvel Cinematic Universe,en,M6,Media
+2021-03-01,997883,Marvel Cinematic Universe,en,M6,Media
+2021-04-01,885110,Marvel Cinematic Universe,en,M6,Media
+2021-05-01,748325,Marvel Cinematic Universe,en,M6,Media
+2021-06-01,511120,Marvel Cinematic Universe,en,M6,Media
+2021-07-01,816955,Marvel Cinematic Universe,en,M6,Media
+2021-08-01,595421,Marvel Cinematic Universe,en,M6,Media
+2021-09-01,588887,Marvel Cinematic Universe,en,M6,Media
+2021-10-01,490576,Marvel Cinematic Universe,en,M6,Media
+2021-11-01,647570,Marvel Cinematic Universe,en,M6,Media
+2021-12-01,1061152,Marvel Cinematic Universe,en,M6,Media
+2022-01-01,1031348,Marvel Cinematic Universe,en,M6,Media
+2022-02-01,530142,Marvel Cinematic Universe,en,M6,Media
+2022-03-01,567357,Marvel Cinematic Universe,en,M6,Media
+2022-04-01,657319,Marvel Cinematic Universe,en,M6,Media
+2022-05-01,836985,Marvel Cinematic Universe,en,M6,Media
+2022-06-01,567298,Marvel Cinematic Universe,en,M6,Media
+2022-07-01,1066993,Marvel Cinematic Universe,en,M6,Media
+2022-08-01,549481,Marvel Cinematic Universe,en,M6,Media
+2022-09-01,539192,Marvel Cinematic Universe,en,M6,Media
+2022-10-01,518318,Marvel Cinematic Universe,en,M6,Media
+2022-11-01,518873,Marvel Cinematic Universe,en,M6,Media
+2022-12-01,398844,Marvel Cinematic Universe,en,M6,Media
+2023-01-01,432854,Marvel Cinematic Universe,en,M6,Media
+2023-02-01,693671,Marvel Cinematic Universe,en,M6,Media
+2023-03-01,556831,Marvel Cinematic Universe,en,M6,Media
+2023-04-01,488024,Marvel Cinematic Universe,en,M6,Media
+2023-05-01,640711,Marvel Cinematic Universe,en,M6,Media
+2023-06-01,527793,Marvel Cinematic Universe,en,M6,Media
+2023-07-01,530895,Marvel Cinematic Universe,en,M6,Media
+2023-08-01,474893,Marvel Cinematic Universe,en,M6,Media
+2023-09-01,373850,Marvel Cinematic Universe,en,M6,Media
+2023-10-01,453013,Marvel Cinematic Universe,en,M6,Media
+2023-11-01,689257,Marvel Cinematic Universe,en,M6,Media
+2023-12-01,13565,Marvel Cinematic Universe,en,M6,Media
+2021-01-01,33598,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-02-01,39911,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-03-01,46433,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-04-01,42619,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-05-01,56648,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-06-01,42573,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-07-01,66483,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-08-01,64680,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-09-01,71738,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-10-01,41752,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-11-01,56758,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-12-01,50117,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-01-01,102637,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-02-01,54415,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-03-01,41889,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-04-01,45209,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-05-01,75266,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-06-01,46347,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-07-01,66387,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-08-01,49719,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-09-01,49966,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-10-01,41985,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-11-01,43278,マーベル・シネマティック・ユニバース,ja,M6,Media
+2022-12-01,30398,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-01-01,32003,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-02-01,40126,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-03-01,29287,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-04-01,26762,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-05-01,45520,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-06-01,33584,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-07-01,30589,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-08-01,31746,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-09-01,23242,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-10-01,24454,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-11-01,48573,マーベル・シネマティック・ユニバース,ja,M6,Media
+2023-12-01,965,マーベル・シネマティック・ユニバース,ja,M6,Media
+2021-01-01,33759,Spotify,de,M7,Media
+2021-02-01,33609,Spotify,de,M7,Media
+2021-03-01,29912,Spotify,de,M7,Media
+2021-04-01,29066,Spotify,de,M7,Media
+2021-05-01,27607,Spotify,de,M7,Media
+2021-06-01,18678,Spotify,de,M7,Media
+2021-07-01,18772,Spotify,de,M7,Media
+2021-08-01,20219,Spotify,de,M7,Media
+2021-09-01,19793,Spotify,de,M7,Media
+2021-10-01,22429,Spotify,de,M7,Media
+2021-11-01,25239,Spotify,de,M7,Media
+2021-12-01,27449,Spotify,de,M7,Media
+2022-01-01,29380,Spotify,de,M7,Media
+2022-02-01,25515,Spotify,de,M7,Media
+2022-03-01,26627,Spotify,de,M7,Media
+2022-04-01,20893,Spotify,de,M7,Media
+2022-05-01,21863,Spotify,de,M7,Media
+2022-06-01,19008,Spotify,de,M7,Media
+2022-07-01,20357,Spotify,de,M7,Media
+2022-08-01,21156,Spotify,de,M7,Media
+2022-09-01,25051,Spotify,de,M7,Media
+2022-10-01,165371,Spotify,de,M7,Media
+2022-11-01,89405,Spotify,de,M7,Media
+2022-12-01,52126,Spotify,de,M7,Media
+2023-01-01,46803,Spotify,de,M7,Media
+2023-02-01,37223,Spotify,de,M7,Media
+2023-03-01,30119,Spotify,de,M7,Media
+2023-04-01,21032,Spotify,de,M7,Media
+2023-05-01,19804,Spotify,de,M7,Media
+2023-06-01,18204,Spotify,de,M7,Media
+2023-07-01,17464,Spotify,de,M7,Media
+2023-08-01,16562,Spotify,de,M7,Media
+2023-09-01,16108,Spotify,de,M7,Media
+2023-10-01,18298,Spotify,de,M7,Media
+2023-11-01,18167,Spotify,de,M7,Media
+2023-12-01,912,Spotify,de,M7,Media
+2021-01-01,196184,Spotify,en,M7,Media
+2021-02-01,196997,Spotify,en,M7,Media
+2021-03-01,196193,Spotify,en,M7,Media
+2021-04-01,224692,Spotify,en,M7,Media
+2021-05-01,152676,Spotify,en,M7,Media
+2021-06-01,126245,Spotify,en,M7,Media
+2021-07-01,256507,Spotify,en,M7,Media
+2021-08-01,234090,Spotify,en,M7,Media
+2021-09-01,247640,Spotify,en,M7,Media
+2021-10-01,236288,Spotify,en,M7,Media
+2021-11-01,263626,Spotify,en,M7,Media
+2021-12-01,262308,Spotify,en,M7,Media
+2022-01-01,345184,Spotify,en,M7,Media
+2022-02-01,327778,Spotify,en,M7,Media
+2022-03-01,281010,Spotify,en,M7,Media
+2022-04-01,230550,Spotify,en,M7,Media
+2022-05-01,234740,Spotify,en,M7,Media
+2022-06-01,259266,Spotify,en,M7,Media
+2022-07-01,291595,Spotify,en,M7,Media
+2022-08-01,263923,Spotify,en,M7,Media
+2022-09-01,269586,Spotify,en,M7,Media
+2022-10-01,651485,Spotify,en,M7,Media
+2022-11-01,575985,Spotify,en,M7,Media
+2022-12-01,382800,Spotify,en,M7,Media
+2023-01-01,377943,Spotify,en,M7,Media
+2023-02-01,320839,Spotify,en,M7,Media
+2023-03-01,293523,Spotify,en,M7,Media
+2023-04-01,209480,Spotify,en,M7,Media
+2023-05-01,238590,Spotify,en,M7,Media
+2023-06-01,252758,Spotify,en,M7,Media
+2023-07-01,245987,Spotify,en,M7,Media
+2023-08-01,214557,Spotify,en,M7,Media
+2023-09-01,196019,Spotify,en,M7,Media
+2023-10-01,212539,Spotify,en,M7,Media
+2023-11-01,202073,Spotify,en,M7,Media
+2023-12-01,7896,Spotify,en,M7,Media

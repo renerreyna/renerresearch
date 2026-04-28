@@ -1,0 +1,22 @@
+case_id,sector,entity,wikipedia_title_en,wikipedia_title_alt,wikipedia_lang_alt,google_trends_term,outcome_primary,outcome_secondary,proof_of_concept,notes
+M1,Media,Netflix,Netflix,Netflix,ja,Netflix,GDELT tone score,Wikipedia volatility,FALSE,Streaming wars narrative 2021-2023
+M2,Media,Disney,The Walt Disney Company,The Walt Disney Company,ja,Disney,GDELT tone score,Wikipedia volatility,FALSE,Restructuring and streaming pivot
+M3,Media,Taylor Swift,Taylor Swift,___ ____,ko,Taylor Swift,GDELT tone score,Wikipedia volatility,FALSE,Eras Tour 2023 cultural moment
+M4,Media,BTS,BTS (band),_____,ko,BTS,GDELT tone score,Wikipedia volatility,FALSE,Hiatus 2022 cross-cultural case
+M5,Media,Kanye West,Kanye West,Kanye West,de,Kanye West,GDELT tone score,Wikipedia volatility,TRUE,Multiple high-magnitude controversies 2021-2023
+M6,Media,Marvel MCU,Marvel Cinematic Universe,__________________,ja,Marvel MCU,GDELT tone score,Wikipedia volatility,FALSE,High international recognition high search volume
+M7,Media,Spotify,Spotify,Spotify,de,Spotify,GDELT tone score,Wikipedia volatility,FALSE,Pure music streaming Joe Rogan controversy 2022
+F1,Finance,Tesla,Tesla Inc,Tesla,de,Tesla stock,Weekly return volatility,GDELT tone score,FALSE,Musk attention dynamics cross-cultural Germany strong market
+F2,Finance,Bitcoin,Bitcoin,Bitcoin,ja,Bitcoin price,Weekly return volatility,GDELT tone score,FALSE,Multiple boom-bust cycles global audience
+F3,Finance,GameStop,GameStop,GameStop,de,GameStop stock,Weekly return volatility,GDELT tone score,TRUE,Jan 2021 short squeeze best proof of concept case
+F4,Finance,FTX,FTX (company),FTX,ja,FTX crypto,Weekly return volatility,GDELT tone score,TRUE,Nov 2022 collapse second best proof of concept
+F5,Finance,Apple,Apple Inc,Apple,ja,Apple stock,Weekly return volatility,GDELT tone score,FALSE,Stable baseline control case low drama expected
+F6,Finance,Oil WTI,West Texas Intermediate,Rohöl,de,oil price,Weekly return volatility,GDELT tone score,FALSE,Geopolitically sensitive commodity Ukraine-driven spikes
+F7,Finance,Silicon Valley Bank,Silicon Valley Bank,Silicon Valley Bank,de,Silicon Valley Bank,Weekly return volatility,GDELT tone score,TRUE,March 2023 bank run social media driven collapse
+G1,Geopolitics,Ukraine war,2022 Russian invasion of Ukraine,Russischer Überfall auf die Ukraine,de,Ukraine,GDELT Goldstein scale,Article count,TRUE,Biggest geopolitical event of window clear escalation events
+G2,Geopolitics,Gaza conflict,2023 Israel-Hamas war,מלחמת חרבות ברזל,he,Palestine,GDELT Goldstein scale,Article count,TRUE,Oct 2023 escalation dramatic Wikipedia editing activity
+G3,Geopolitics,COVID-19,COVID-19 pandemic,COVID-19-Pandemie,de,COVID,GDELT Goldstein scale,Article count,FALSE,Spans all three sectors wave structure creates natural variation
+G4,Geopolitics,Vladimir Putin,Vladimir Putin,Владимир Путин,ru,Vladimir Putin,GDELT Goldstein scale,Article count,FALSE,Wagner mutiny invasion mobilization clear decision events
+G5,Geopolitics,Donald Trump,Donald Trump,Donald Trump,de,Donald Trump,GDELT Goldstein scale,Article count,FALSE,Jan 6 aftermath indictments 2023 permanently elevated baseline
+G6,Geopolitics,Taiwan,Taiwan,臺灣,zh,Taiwan,GDELT Goldstein scale,Article count,TRUE,Pelosi visit Aug 2022 English vs Chinese Wikipedia divergence
+G7,Geopolitics,Xi Jinping,Xi Jinping,习近平,zh,Xi Jinping,GDELT Goldstein scale,Article count,FALSE,Individual actor strong cross-cultural divergence English vs Chinese
